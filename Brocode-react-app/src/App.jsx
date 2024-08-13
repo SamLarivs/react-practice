@@ -1,11 +1,8 @@
-import Button from './Button.jsx'
-import ProfilePicture from './ProfilePicture.jsx';
+import MyComponent from "./MyComponent";
 function App() {
   
   return(
-    <>
-<ProfilePicture />
-</>
+    <MyComponent />
 );
 }
 
